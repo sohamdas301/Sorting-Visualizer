@@ -1,0 +1,29 @@
+.array-container {
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 1%;
+  }
+  
+  .array-bar {
+    width: 10px;
+    /* background-color: rgb(38, 49, 145); */
+    background-color: turquoise;
+    display: inline-block;
+    margin: 0 2px;
+  }
+
+  .buttons  button {
+    padding-bottom: 0%;
+    background-color: rgba(0, 0, 0, 0.637);
+    border: none;
+    color: rgba(94, 255, 0, 0.705);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-right: 30px;
+  }
